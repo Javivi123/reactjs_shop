@@ -1,0 +1,57 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+.card-category {
+  width: 200px;
+  margin-top: 50px;
+}
+
+.App {
+  text-align: center;
+}
+
+.select-categories{
+  width: 400px;
+}
+
+.star{
+  margin-top: -18px;
+}
+
+.navbar{
+  background-color:darkmagenta;
+}
+
+#navbar-brand{
+  color: white;
+  margin-top: 10px;
+  text-decoration: none;
+}
+
+#logo{
+  margin-left: 50px;
+  padding: 10px;
+}
+
+#logo:hover{
+  cursor:pointer;
+}
+
+#link{
+  margin-right: 2000px;
+}
+
+#link2{
+  margin-right: 5000px;
+}
+
+.image-cart{
+  object-fit: cover;
+}
+
+#X:hover{
+  cursor:pointer;
+  color: red;
+}
+
+.text-paypage{
+  font-size: 12px;
+}
